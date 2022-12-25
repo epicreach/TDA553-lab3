@@ -1,2 +1,2 @@
-# TDA553-lab2
+# TDA553-lab3
 Johannes Lindqvist, Luqas Lundahl, Emil Svensjö
